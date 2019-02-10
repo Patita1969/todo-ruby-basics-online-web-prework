@@ -1,17 +1,19 @@
-def division(num1, num2)
- 
+def division(3,15)
+ quotient = 5
 end
 
-def assign_variable(value)
-  
+def assign_variable(name)
+  name = Mardi
+  puts name
 end
 
-def argue
-  
+def argue(arg)
+  phrase = "I code well when I focus"
+puts phrase
 end
 
 def greeting
-
+puts "Hello World"
 end
 
 def return_a_value
